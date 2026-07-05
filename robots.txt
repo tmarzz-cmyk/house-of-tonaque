@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://houseoftonaque.co.zw/sitemap.xml
